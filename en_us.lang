@@ -184,6 +184,22 @@ research.thaumic_arcana.slime_armor.title=Infused Armor
 research.thaumic_arcana.slime_armor.stage.1=The new tools that I crafted are quite impressive, the way they carry potions is valuable. But, I can't really apply them tpo myself unless I keep hitting myself. I prepared materials for an armor that should be able to do the same, but to the wearer.
 research.thaumic_arcana.slime_armor.stage.2=The armor is completed, used diamonds instead of iron for more protection.The armor can absorb potions than provide a longer lasting effect as long as I have the armor piece on.
 
+research.thaumic_arcana.souls.title=Souls
+research.thaumic_arcana.souls.stage.1=Studying the body and it's workings is not going to be enough. I also need to study the mind, and the soul. Especially because of the perculiar nature of ghasts, that are leaving me puzzled. Gathered some materials that might be usefull.
+research.thaumic_arcana.souls.stage.2=Ghast tears contain small chunks of souls. I can't get my hands on a full one, but sifting tears through soul sand, into a special container can give me a damaged, and fragmented soul. It is unuseable to create even the semblence of living tough.
+
+research.thaumic_arcana.revival_capsule.title=Revival capsule
+research.thaumic_arcana.revival_capsule.stage.1= I've heared rumors of a special item that can bring the dying back to life. If I could get my hands on one.
+research.thaumic_arcana.revival_capsule.stage.2= This totem was infused with a soul, that is condemned at the brink of death, instead of the user. I don't know, neither want to know where they got the souls from, or how they injected it, but I can recreate it with thaumaturgy. I cna also put some improvements over the original design.
+
+research.thaumic_arcana.inhibitor.title=Mind Inhibitor
+research.thaumic_arcana.inhibitor.stage.1= This fragmented soul can not live. But what would happen if I were to inject it into something that has a living soul?
+research.thaumic_arcana.inhibitor.stage.2= I can't place it. It surpresses the behaviour of the creature, altough I can not use it on any sentient creature. I wonder what can I do with this?
+
+research.thaumic_arcana.experience_store.title=Experience Storage
+research.thaumic_arcana.experience_store.stage.1= Souls are connected to minds. (in theory) I wonder if I could use a soul to connect two minds together.
+research.thaumic_arcana.experience_store.stage.2= It sorta works. I can create a one way link that transfers knowledge between the brains. Based on this I created a device that can transfer my experiences into a jarred brain, for safe keeping. Altough, because of the decreased cognitive capacities of a zombie brain, some of the experience is lost.
+
 ##########
 #Theories#
 ##########
@@ -228,6 +244,8 @@ item.thaumic_arcana.incubated_egg.name=Incubated Egg
 item.thaumic_arcana.fertiliser.name=Arcane Fertilizer
 item.thaumic_arcana.relief_item.name=Raw Relief
 item.thaumic_arcana.nutrient_mix.name=Nutrient Mix
+item.thaumic_arcana.nutritious_mix.name=Nutritious Mix
+
 item.thaumic_arcana.plant_ball.name=Plant Ball
 item.thaumic_arcana.plant_ball.contains=Contains:
 item.thaumic_arcana.enchanting_powder.name=Enchanting Powder
@@ -238,7 +256,11 @@ item.thaumic_arcana.enchant_modifier.name=Enchantment Modifier Powder
 
 item.thaumic_arcana.empty_soul_capsule.name=Empty Soul Capsule
 item.thaumic_arcana.soul_capsule.name=Soul Capsule
+item.thaumic_arcana.revival_capsule.name=Revival Capsule
+item.thaumic_arcana.mind_inhibitor.name=Mind Inhibitor
 
+
+item.thaumic_arcana.experience_store.name=Knowledge Infuser
 item.thaumic_arcana.slime_meat_raw.name=Raw Slime Meat
 item.thaumic_arcana.slime_meat_cooked.name=Slime Steak
 
@@ -279,6 +301,7 @@ item.thaumic_arcana.animated_curiosity.name=Animated Curiosity
 #Blocks#
 ########
 tile.thaumic_arcana.experiment_table.name=Experiment Table
+tile.thaumic_arcana.arcane_sieve.name=Arcane Sieve
 
 tile.thaumic_arcana.magic_oak_sapling.name=Great Oak Sapling
 tile.thaumic_arcana.silver_oak_sapling.name=Silver Oak Sapling
@@ -300,7 +323,7 @@ golem.material.thaumic_arcana.leather=Leather
 golem.material.text.thaumic_arcana.hay=The golem is a mechanical skeleton coated with straws.Increased dexterity, low durability
 golem.material.text.thaumic_arcana.flesh=The golem is a artifical zombie.
 golem.material.text.thaumic_arcana.slime=The golem is made out of slime, making it wiggly.
-golem.material.text.thaumic_arcana.leather=The golem is made out of leather, and has increased carrying capacity, due to internal packet.
+golem.material.text.thaumic_arcana.leather=The golem is made out of leather, and has increased carrying capacity, due to internal packet that I could put in it.
 
 ######
 #Keys#
@@ -327,6 +350,7 @@ thaumic_arcana.research.focused_on=Focusing on:
 thaumic_arcana.research.values=Possible results:
 thaumic_arcana.research.expected_result=Expected_result
 thaumic_arcana.research.counts_in_as=%s% of the result will be considered
+
 ######
 #Misc#
 ######
