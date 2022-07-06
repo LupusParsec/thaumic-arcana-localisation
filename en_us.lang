@@ -301,6 +301,7 @@ item.thaumic_arcana.animated_curiosity.name=Animated Curiosity
 #Blocks#
 ########
 tile.thaumic_arcana.experiment_table.name=Experiment Table
+tile.thaumic_arcana.arcane_cage.name=Arcane Cage
 tile.thaumic_arcana.arcane_sieve.name=Arcane Sieve
 
 tile.thaumic_arcana.magic_oak_sapling.name=Great Oak Sapling
@@ -314,8 +315,8 @@ tile.thaumic_arcana.aura_leaves.name=Aura Leaves
 tile.thaumic_arcana.taint_wine_cap.name=Taint Wine Cap
 tile.thaumic_arcana.taint_wine_trunk.name=Taint Wine Trunk
 
-tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving stone of binding empowerment
-tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving stone of binding disempowerment
+tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving Stone of Binding Empowerment
+tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving Stone of Binding Disempowerment
 
 ###########
 #MATERIALS#
