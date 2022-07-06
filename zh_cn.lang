@@ -169,6 +169,20 @@ item.thaumic_arcana.rodent.dead.name=Dead Rodent
 tile.thaumic_arcana.experiment_table.name=实验台
 tile.thaumic_arcana.arcane_cage.name=奥术笼
 
+tile.thaumic_arcana.magic_oak_sapling.name=Great Oak Sapling
+tile.thaumic_arcana.silver_oak_sapling.name=Silver Oak Sapling
+tile.thaumic_arcana.tainted_oak_sapling.name=Tainted Oak Sapling
+
+tile.thaumic_arcana.aura_wood_log.name=Aura Wood Log
+tile.thaumic_arcana.aura_wood_sapling.name=Aura Wood Sapling
+tile.thaumic_arcana.aura_leaves.name=Aura Leaves
+
+tile.thaumic_arcana.taint_wine_cap.name=Taint Wine Cap
+tile.thaumic_arcana.taint_wine_trunk.name=Taint Wine Trunk
+
+tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving Stone of Binding Empowerment
+tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving Stone of Binding Disempowerment
+
 ######
 #Keys#
 ######
