@@ -76,7 +76,6 @@ research.thaumic_arcana.tree.stage.1=When I was growing plants, it wasn't too ha
 research.thaumic_arcana.tree.stage.2=The tree is more of a bush, but it is able to give me wood. I also need to add some vacuos to the formula, so I can improve the spatial conditions in there for long enough to make it so that it won't get stuck in my cauldron, or thaumatorium. <LINE>The leaves overgrew, and became so hard that I need to crack it open by smashing it to a wall.
 research.thaumic_arcana.tree.stage.3=The process causes a yield lower than expected. I don't think I should do this to plants where this problem didn't occur.
 
-
 research.thaumic_arcana.plantproducts.title=Biomanuafactury
 research.thaumic_arcana.plantproducts.stage.1= Now that I figured how to force plants to grow, I want to do something different. I want to see if I can fabricate products that would normally come from different plants in more flexible ways. <LINE> The first thing I want to try is to solve a problem that has been emerging during my work. I use a lot of paper while doing research and studies. <BR> I prepared a few candidates and samples that should be usable to create paper.
 research.thaumic_arcana.plantproducts.stage.2= I ended up choosing wood as the material for this. With the correct essentia, I can soften and reshape it's fibers to turn it into fine sheets of paper. <LINE> Now I want to do something different. I want to see if I could mold or even grow other resources. <BR> Making more of some dead plantmatter should do it.
@@ -141,7 +140,6 @@ research.thaumic_arcana.hay_studies.stage.1=I found mentions of using hay to mak
 research.thaumic_arcana.flesh_studies.title=Material studies: Flesh
 research.thaumic_arcana.flesh_studies.stage.1=Golems can be made out of flesh and brains, now that I have a deeper understanding of the living. The golem is practically an artifical zombie, with no real vital sings, but with enough machina it can still work.
 
-
 research.thaumic_arcana.slime_studies.title=Material studies: Slime
 research.thaumic_arcana.slime_studies.stage.1=The knowledge of forging slime into tools has a different application. Golems crafted from it, have an increased durability, but really clumsy doe to wiggling.
 
@@ -172,7 +170,6 @@ research.thaumic_arcana.slime_meat.stage.2=The slime took up the structure, text
 research.thaumic_arcana.slime_infusion.title=Slime infusion
 research.thaumic_arcana.slime_infusion.stage.1=Attempting to make slime fuse with raw magic could answer why it appears only in two variants.
 research.thaumic_arcana.slime_infusion.stage.2=The results are telling. I need to treat it with fabrico, it makes it more mallable and reactive. It is also less sticky than it was, possibly the reason why I could not put int back into a viable slime.Than I can use vis and a shard to infuse it with the appropriate aspect.<BR> Altough, it comes with it's own benefits. <LINE>I can brew it into an awkward potion to get some effects, and I can also brew up to 5 slimes into one potion. Altough the concussion is really unstable and will be ruined if I take it under traditional brewing methods. <LINE> I can also put it down on floors, and it will apply it's effect when someone or something steps on it.<LINE> NOT ALL ASPECTS HAVE AN EFFECT! <LINE> First, I need to create a slime infused with fabrico through alchemy before i can fuse it with any other aspect.
-
 
 research.thaumic_arcana.slime_infusion_tools.title=Infused Slime Tools
 research.thaumic_arcana.slime_infusion_tools.stage.1=Can tools made out of slime be treated the same way as normal slime? The way I fuse it with metal is not as drastic as the infusion with essentia.
@@ -235,9 +232,9 @@ enchant.modifier.effect_amplifier=Status Effect Amplifier
 enchant.creature_enchant.helper.enchant=Enchant
 enchant.creature_enchant.helper.modifier=Enchant Modifier
 
-########
+#######
 #Items#
-########
+#######
 itemGroup.thaumic_arcana=Thaumic Arcana
 
 item.thaumic_arcana.creature_enchanter.name=Creature Disenchanter
@@ -321,12 +318,10 @@ tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving Stone of Binding D
 ###########
 #MATERIALS#
 ###########
-
 golem.material.thaumic_arcana.hay=Straw
 golem.material.thaumic_arcana.flesh=Flesh
 golem.material.thaumic_arcana.slime=Slime
 golem.material.thaumic_arcana.leather=Leather
-
 
 golem.material.text.thaumic_arcana.hay=The golem is a mechanical skeleton coated with straws.Increased dexterity, low durability
 golem.material.text.thaumic_arcana.flesh=The golem is a artifical zombie.
