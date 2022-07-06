@@ -53,6 +53,7 @@ research.thaumic_arcana.creature_enchant_advanced.speed=The speed enchantment in
 research.thaumic_arcana.creature_enchant.creature_enchanter_fertile=The fertility enchantment allows enchanted animals to give birth to additional offspring. Each enchanted parent provides one extra baby. <LINE> Creatures with higher intellect are somewhat unaffected.
 research.thaumic_arcana.creature_enchant.creature_enchanter_protection=The protection enchantment is very straightforward: every level will divide the damage that the enchanted creature will take.
 research.thaumic_arcana.creature_enchant.creature_enchanter_respiration=The respiration enchantment allows the enchanted creature to breath underwater.
+research.thaumic_arcana.creature_enchant.creature_enchanter_strenght=(WIP)
 research.thaumic_arcana.creature_enchant.powder=To apply this magic, I need to create a special book that holds the spell, and a special enchantment. To enchant the book, I need to get a special binding agent that can link it to the creature. To apply the enchant to the book, I need to right click an enchanting table with the enchanted powder in my main hand, and the book in my offhand. <LINE> from this point, I can simply right click the book on any creature to apply the enchantment.
 
 research.thaumic_arcana.self_enchantment.title=Self Enchantment
@@ -305,6 +306,13 @@ tile.thaumic_arcana.arcane_sieve.name=Arcane Sieve
 tile.thaumic_arcana.magic_oak_sapling.name=Great Oak Sapling
 tile.thaumic_arcana.silver_oak_sapling.name=Silver Oak Sapling
 tile.thaumic_arcana.tainted_oak_sapling.name=Tainted Oak Sapling
+
+tile.thaumic_arcana.aura_wood_log.name=Aura Wood Log
+tile.thaumic_arcana.aura_wood_sapling.name=Aura Wood Sapling
+tile.thaumic_arcana.aura_leaves.name=Aura Leaves
+
+tile.thaumic_arcana.taint_wine_cap.name=Taint Wine Cap
+tile.thaumic_arcana.taint_wine_trunk.name=Taint Wine Trunk
 
 tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving stone of binding empowerment
 tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving stone of binding disempowerment
