@@ -1,6 +1,6 @@
-##########
-#Research#
-##########
+# ######## #
+# Research #
+# ######## #
 tc.research_category.BIOMANCY=Biomancy
 
 research.thaumic_arcana.metal_transmutation.title=Metal Transmutation
@@ -12,7 +12,7 @@ research.thaumic_arcana.biomancy.stage.1=The biothaumic mind was a major success
 research.thaumic_arcana.biomancy.stage.2=There's a difference between theory, and reality. The magic that I'm trying to apply causes a heavy amount of scarring in booth plants and animals, something that I did not experienced while making the biothaumic mind.  I prepared for a second experiment, now attempting to use some victus, to mitigate the effects of the magic.
 research.thaumic_arcana.biomancy.stage.3=I think I might be onto something. Reducing the strength of the spell, or reducing the amount of essentia touching the tissue allows me to finish the procedure whitout major damage. I tweaked my thaumatorium accordingly.<PAGE> Simply studying the living or the dead that I slay should also give me more insight into the ways of life. (Creatures killed by hand drop knowledge)
 
-research.thaumic_arcana.wheat.title=Plant growth
+research.thaumic_arcana.wheat.title=Plant Growth
 research.thaumic_arcana.wheat.stage.1=I believe that the aspects creating the elements that plants need to grow should be able to create a reaction that grows the plant instantaneously... or explode on the spot.
 research.thaumic_arcana.wheat.stage.2=The first steps are promising: using alchemical principles, I was able to trigger rapid growth in seeds. Unfortunately, the resulting plant did not yield anything to repeat the process. I must try it on other plants.
 research.thaumic_arcana.wheat.stage.3=Other plants are reacting much better than wheat, resulting in a net gain. The methodology is still not perfect, but the results look edible.
@@ -37,7 +37,7 @@ research.thaumic_arcana.creature_enchant.stage.2=The carrier is complete. This s
 research.thaumic_arcana.creature_enchant.stage.3=For the next experiment, I want to see how specific and radical I can be. I want to try to enchant a creature to breath underwater.
 research.thaumic_arcana.creature_enchant.stage.4=That is it for now. I created powerful enchantments that I can apply to living beings. I think I can move forward to attempting more in Biomancy now that I understand more about the interaction of flesh and magic. <LINE> It is important to note, that the dust is always interchangeable.
 
-research.thaumic_arcana.creature_enchant_advanced.title=Advanced Creature enchants
+research.thaumic_arcana.creature_enchant_advanced.title=Advanced Creature Enchants
 research.thaumic_arcana.creature_enchant_advanced.stage.1=There must be more for me to do.I prepared a few ingredients that I can use to try out a new formula, that should serve as the base for a much stronger enchanting powder, that (theoratically) can increase the strength of the bond between the creature and the enchantment.
 research.thaumic_arcana.creature_enchant_advanced.stage.2=I created the substance. Now I want to try out if I could increase the strenght of the creature.
 research.thaumic_arcana.creature_enchant_advanced.stage.3=Success. The new enchantment is indeed potent, but it will not work alone I'll need some internal reinforcements, or else the limbs will fall off. <LINE> Now that I see some of the applications and limitations of this technique, I want to see if I can create an enchant, that would transcend the abilities of one creature, and make it behave like it's something else. <BR><BR>A spider should suffice.
@@ -88,7 +88,7 @@ research.thaumic_arcana.enchant_modification.stage.3=Total failure. I still can 
 research.thaumic_arcana.enchant_modification.negation=The negation modifier will flip the multiplier of the enchantment.
 research.thaumic_arcana.enchant_modification.base=The normal modifier will revert the binding to it's default state.
 
-research.thaumic_arcana.plant_experiments.title=Plant experiments
+research.thaumic_arcana.plant_experiments.title=Plant Experiments
 research.thaumic_arcana.plant_experiments.stage1=Now that I understand how I can use magic on plants, I want to see if I could make a mundane plant display magical properties. Maybe make some silverwood?
 research.thaumic_arcana.plant_experiments.stage2=No! No! No! <BR> The plant is now currupted, and is completly tainted. It looks like plants don't take it well when you try to change them fundamentally, or my method is wrong.Took a bit to get rid of this thing and fix the damage it caused.<LINE> Next I will try to make a small alteration. Nothing big, maybe change only the trunk. Let's try again like that.
 research.thaumic_arcana.plant_experiments.stage3=Now it works. The sapling is viable,but I'm not sure if it can reproduce. It still might be tainted, which gives me the idea on what if I treated it with only taint? And some victus just to make sure that it survives.
@@ -112,7 +112,7 @@ research.thaumic_arcana.enchant_focus.stage.2=Yes. Just as I tought. <BR>The bin
 research.thaumic_arcana.enchant_focus.stage.3=Now I truly understand how the binding actually works, and I can manipulate it with ease.
 research.thaumic_arcana.enchant_focus.paving=The paving stones will
 
-research.thaumic_arcana.enchant_effect_amplification.title=Effect enchant amplification
+research.thaumic_arcana.enchant_effect_amplification.title=Effect Enchant Amplification
 research.thaumic_arcana.enchant_effect_amplification.stage.1=Some enchantments apply their powers in a similar manner to potions, or beacons. I want to see if selectively boosting some of the creature's metabolism can have a positive effect on the effects themselves.
 research.thaumic_arcana.enchant_effect_amplification.stage.2=Yes it can. this special binding will increase the power level of all effect based enchants by one.
 
@@ -120,7 +120,7 @@ research.thaumic_arcana.experiment_table.title=Experiment Table
 research.thaumic_arcana.experiment_table.stage.1=Sometimes I need more than standard research to form theories. Sometimes I need to try things out in order to gain more ideas. I've drawn up plans for an experiment table, but I need to do some additional research to figure how effective it could be.
 research.thaumic_arcana.experiment_table.stage.2=Yes. The method is effective. Altough, I have to find more and more new items in order for it to work effectively. Repeating the same experiments over and over again will not yield any result.
 
-research.thaumic_arcana.creature_enchant_advanced2.title=More creature enchants
+research.thaumic_arcana.creature_enchant_advanced2.title=More Creature Enchants
 research.thaumic_arcana.creature_enchant_advanced2.stage.1=I want to see what I can get, if I can boost the vitality of the creature even more. Prepared some tools for the experiment.
 research.thaumic_arcana.creature_enchant_advanced2.stage.2=The experiment yielded two different enchants.<LINE> I want to see if I can modify the agility enchantment to  work on arms instead of legs. Worst case scenarion, it will make the creature pack a punch.
 research.thaumic_arcana.creature_enchant_advanced2.stage.3=I'll see if I gain more ideas on what to try out. <LINE> Enhancing the vitals of the creature lead me to discover a way to improve the yields from the creature when it is killed.
@@ -130,17 +130,17 @@ research.thaumic_arcana.creature_enchant_advanced2.health_boost=The health boost
 research.thaumic_arcana.creature_enchant_advanced2.haste=The haste enchanment will increase the mining speed of the enchanted creature
 research.thaumic_arcana.creature_enchant_advanced2.productivity=The productivity enchant increases the amount of items dropped by the enchanted creature.
 
-research.thaumic_arcana.creature_enchant_removal.title=Removing enchants
+research.thaumic_arcana.creature_enchant_removal.title=Removing Enchants
 research.thaumic_arcana.creature_enchant_removal.stage.1=I'm close to breaking the bond that I've created. Just a little more.
 research.thaumic_arcana.creature_enchant_removal.stage.2=My theory was correct. by applying a special incantation, I can break the bond.<LINE> this book can be used to disenchant creatures, but needs to be attuned to the enchantment. That can be done by right clicking an enchantment table with the book in my offhand, and the dust in my main hand. The level of the enchantment does not matter.
 
-research.thaumic_arcana.hay_studies.title=Material studies: Hay
+research.thaumic_arcana.hay_studies.title=Material Studies: Hay
 research.thaumic_arcana.hay_studies.stage.1=I found mentions of using hay to make golems. Not exactly a prime material for me tough. Still, after trying it I found an interesting property. I can use it to fill the gaps of a skeletal frame, which allows me to make a golem that is fragile, but can move really well.
 
-research.thaumic_arcana.flesh_studies.title=Material studies: Flesh
+research.thaumic_arcana.flesh_studies.title=Material Studies: Flesh
 research.thaumic_arcana.flesh_studies.stage.1=Golems can be made out of flesh and brains, now that I have a deeper understanding of the living. The golem is practically an artifical zombie, with no real vital sings, but with enough machina it can still work.
 
-research.thaumic_arcana.slime_studies.title=Material studies: Slime
+research.thaumic_arcana.slime_studies.title=Material Studies: Slime
 research.thaumic_arcana.slime_studies.stage.1=The knowledge of forging slime into tools has a different application. Golems crafted from it, have an increased durability, but really clumsy doe to wiggling.
 
 research.thaumic_arcana.flesh_golems.title=Flesh Golems
@@ -148,26 +148,26 @@ research.thaumic_arcana.flesh_golems.stage.1=Do I really want to do this?<LINE> 
 research.thaumic_arcana.flesh_golems.stage.2=Good, the flesh is being perforated and burnt inside the press. I have to find a possible treatment that would prevent this from happening.
 research.thaumic_arcana.flesh_golems.stage.3=I tweaked my press. The flesh golem is now complete. Because the golem uses a primitive nervious system that I salvaged from brains, it will be "smart" whitout any additions.
 
-research.thaumic_arcana.livium.title=Living metal
+research.thaumic_arcana.livium.title=Living Metal
 research.thaumic_arcana.livium.stage.1=From the experience of the flesh golem, I learned how to use flesh as a raw material.I'm thinking about also using what I know about slimes as well, since they are mostly just blobs of organic matter, with very little internal structure. For the next experiment I prepared a way to "neuter" flesh, so it will not kill foreigh tissue. I'm going to infuse this flesh with the aspects of metal and the properties of iron. It will either turn into an organism that has the properties of a metal, yet behaves like a living organism, or the scarring will destroy it.
 research.thaumic_arcana.livium.stage.2=The experiment resulted in a special metal that shows sings of life. Tools made of this "material" can leach nutrients from the user's body to repair themselves. It can be triggered by right clicking the tool.
 
-research.thaumic_arcana.slime.title=The mystery of slimes
+research.thaumic_arcana.slime.title=The Mystery of Slimes
 
 research.thaumic_arcana.slime.stage.1=I wonder why I have not tried this. Why I have not tried to do anything with the most basic form of life that I know of, the slimes. They are so simple that they can be grown with the most basic form of alchemy, no extra safety measures required.<BR> How they relate to other creatures? If I can find that out, than I could get closer to life itself.<LINE>First things first. They are green, like plants. That is something to investigate.
 research.thaumic_arcana.slime.stage.2=They do contain some plant matter, but I don't see it anything more than stuff they collected while or before forming, and that is quite interesting. Now let's see how they compare with other creatures.
 research.thaumic_arcana.slime.stage.3=Still nothing. They lack every single structure that anything that moves would normally possess, and that is disturbing. Either a large chunk of research can be thrown out the window, or there is something else. <LINE> I can still try to look at a known variant, the magma slime. I do not see how this creature would work with the amount of heat that magma cubes posess. That may yield some answers. <LINE> While I'm at it, I'm also going to investigate an another interesting phenomenon around them. Combining the cream coming from slain slimes yields a hot rock, that is really similar to the magma found near lava lakes.
 research.thaumic_arcana.slime.stage.4=I see it. Slime itself is a lot like the cleansed flesh that I've created. A chunk of blank living tissue, which does raise the question why only two variants exist? <BR>Anyways, this discovery does open up some new possibilities when it comes to tool crafting, and it is easier than expected. Some vis and ordo is enough to fuse it with metal, in a fashion that only seemed to be possible with infusion.<LINE> It also looks like that the magma found on the shores of lava lakes, is made out of dead magma cubes, and it is possible to reclaim some of the common materials associated with them. <PAGE> It does raise more questions than answers tough. Why slimes have not absorbed anything else other than heat? What would prevent them? Is that even possible?
 
-research.thaumic_arcana.slime_animation.title=Slime reanimation
+research.thaumic_arcana.slime_animation.title=Slime Reanimation
 research.thaumic_arcana.slime_animation.stage.1=Now that I've established exactly how slimes are, I should be able to "reanimate", or really just reform a slime into it's cubic form. Knowing that simply making a large enough clump of slime is not enough, I've prepared a few items for the experiment.
 research.thaumic_arcana.slime_animation.stage.2=The "reanimation" formula worked wonderously. I can create a lump of slimes that can "reanimate" itself. Even tough I have no control over the size, I might find a use for it.
 
-research.thaumic_arcana.slime_meat.title=Slime meat
+research.thaumic_arcana.slime_meat.title=Slime Meat
 research.thaumic_arcana.slime_meat.stage.1=Slime is able to fuse with inanimate matter, and take up some of it's properties. Question is, what would happen if I fused it with meat?
 research.thaumic_arcana.slime_meat.stage.2=The slime took up the structure, texture and some of the smell of the meat. Slime is actually quite nutritious it seems, but I would not put it into my mouth raw.
 
-research.thaumic_arcana.slime_infusion.title=Slime infusion
+research.thaumic_arcana.slime_infusion.title=Slime Infusion
 research.thaumic_arcana.slime_infusion.stage.1=Attempting to make slime fuse with raw magic could answer why it appears only in two variants.
 research.thaumic_arcana.slime_infusion.stage.2=The results are telling. I need to treat it with fabrico, it makes it more mallable and reactive. It is also less sticky than it was, possibly the reason why I could not put int back into a viable slime.Than I can use vis and a shard to infuse it with the appropriate aspect.<BR> Altough, it comes with it's own benefits. <LINE>I can brew it into an awkward potion to get some effects, and I can also brew up to 5 slimes into one potion. Altough the concussion is really unstable and will be ruined if I take it under traditional brewing methods. <LINE> I can also put it down on floors, and it will apply it's effect when someone or something steps on it.<LINE> NOT ALL ASPECTS HAVE AN EFFECT! <LINE> First, I need to create a slime infused with fabrico through alchemy before i can fuse it with any other aspect.
 
@@ -186,7 +186,7 @@ research.thaumic_arcana.souls.title=Souls
 research.thaumic_arcana.souls.stage.1=Studying the body and it's workings is not going to be enough. I also need to study the mind, and the soul. Especially because of the perculiar nature of ghasts, that are leaving me puzzled. Gathered some materials that might be usefull.
 research.thaumic_arcana.souls.stage.2=Ghast tears contain small chunks of souls. I can't get my hands on a full one, but sifting tears through soul sand, into a special container can give me a damaged, and fragmented soul. It is unuseable to create even the semblence of living tough.
 
-research.thaumic_arcana.revival_capsule.title=Revival capsule
+research.thaumic_arcana.revival_capsule.title=Revival Capsule
 research.thaumic_arcana.revival_capsule.stage.1= I've heared rumors of a special item that can bring the dying back to life. If I could get my hands on one.
 research.thaumic_arcana.revival_capsule.stage.2= This totem was infused with a soul, that is condemned at the brink of death, instead of the user. I don't know, neither want to know where they got the souls from, or how they injected it, but I can recreate it with thaumaturgy. I cna also put some improvements over the original design.
 
@@ -198,9 +198,9 @@ research.thaumic_arcana.experience_store.title=Experience Storage
 research.thaumic_arcana.experience_store.stage.1= Souls are connected to minds. (in theory) I wonder if I could use a soul to connect two minds together.
 research.thaumic_arcana.experience_store.stage.2= It sorta works. I can create a one way link that transfers knowledge between the brains. Based on this I created a device that can transfer my experiences into a jarred brain, for safe keeping. Altough, because of the decreased cognitive capacities of a zombie brain, some of the experience is lost.
 
-##########
-#Theories#
-##########
+# ######## #
+# Theories #
+# ######## #
 card.thaumic_arcana.study_plants.name=Study %1$s
 card.thaumic_arcana.study_plants.text=Studying %1$s can give you a deeper understanding of plants. Gain 10 Biomancy.
 
@@ -210,9 +210,9 @@ card.thaumic_arcana.study_flesh.text=Dissecting animals (%1$s) can give you a de
 card.thaumic_arcana.study_dead_flesh.name=Dissect remains
 card.thaumic_arcana.study_dead_flesh.text=Dissecting %1$s can give you a deeper understanding of their structure, even though it's a bit more gross than fresh tissue. Gain 25 Biomancy.
 
-###################
-#Creature Enchants#
-###################
+# ################# #
+# Creature Enchants #
+# ################# #
 enchant.creature_enchant.fertile=Fertile
 enchant.creature_enchant.respiration=Respiration
 enchant.creature_enchant.protection=Protection
@@ -232,9 +232,9 @@ enchant.modifier.effect_amplifier=Status Effect Amplifier
 enchant.creature_enchant.helper.enchant=Enchant
 enchant.creature_enchant.helper.modifier=Enchant Modifier
 
-#######
-#Items#
-#######
+# ##### #
+# Items #
+# ##### #
 itemGroup.thaumic_arcana=Thaumic Arcana
 
 item.thaumic_arcana.creature_enchanter.name=Creature Disenchanter
@@ -287,16 +287,16 @@ item.thaumic_arcana.infused_slimy_helmet.name=Infused Slimey Helmet
 
 item.thaumic_arcana.infused_slime.name=Infused Slime
 
-#curios
+# curios
 item.thaumic_arcana.research_result.name=Research Results
 item.thaumic_arcana.organic_curiosity.name=Organic Curiosity
 item.thaumic_arcana.vaporous_curiosity.name=Vaporous Curiosity
 item.thaumic_arcana.infused_curiosity.name=Infused Curiosity
 item.thaumic_arcana.animated_curiosity.name=Animated Curiosity
 
-########
-#Blocks#
-########
+# ###### #
+# Blocks #
+# ###### #
 tile.thaumic_arcana.experiment_table.name=Experiment Table
 tile.thaumic_arcana.arcane_cage.name=Arcane Cage
 tile.thaumic_arcana.arcane_sieve.name=Arcane Sieve
@@ -315,9 +315,9 @@ tile.thaumic_arcana.taint_wine_trunk.name=Taint Wine Trunk
 tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving Stone of Binding Empowerment
 tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving Stone of Binding Disempowerment
 
-###########
-#MATERIALS#
-###########
+# ######### #
+# MATERIALS #
+# ######### #
 golem.material.thaumic_arcana.hay=Straw
 golem.material.thaumic_arcana.flesh=Flesh
 golem.material.thaumic_arcana.slime=Slime
@@ -328,15 +328,15 @@ golem.material.text.thaumic_arcana.flesh=The golem is a artifical zombie.
 golem.material.text.thaumic_arcana.slime=The golem is made out of slime, making it wiggly.
 golem.material.text.thaumic_arcana.leather=The golem is made out of leather, and has increased carrying capacity, due to internal packet that I could put in it.
 
-######
-#Keys#
-######
+# #### #
+# Keys #
+# #### #
 key.thamic_arcana.category=Thaumic Arcana
 key.descriptions.desc=Swaps the descriptions of specific items
 
-##########
-#Commands#
-##########
+# ######## #
+# Commands #
+# ######## #
 command.thaumic_arcana.reload.feedback=Thaumic Arcana configs reloaded
 rendering.thaumic_arcana.reload.failed=Failed to reload rendering. Check the console output for details.
 
@@ -346,17 +346,17 @@ commands.thaumic_arcana.spawn_structure.invalid_name=Invaliid structure name
 commands.thaumic_arcana.scar.usage=/tascar <player> <check|setdamage> <number>>
 commands.thaumic_arcana.scar.wrong_target= Target can not be scarred!
 
-##########
-#Research#
-##########
+# ######## #
+# Research #
+# ######## #
 thaumic_arcana.research.focused_on=Focusing on:
 thaumic_arcana.research.values=Possible results:
 thaumic_arcana.research.expected_result=Expected_result
 thaumic_arcana.research.counts_in_as=%s% of the result will be considered
 
-######
-#Misc#
-######
+# #### #
+# Misc #
+# #### #
 thaumic_arcana.tooltip.unused=Unused!
 thaumic_arcana.tooltip.infused_with=Infused with %s
 item.plant_ball.contains=Contains:
