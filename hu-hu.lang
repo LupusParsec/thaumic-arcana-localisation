@@ -270,4 +270,4 @@ thaumic_arcana.research.counts_in_as=%s% of the result will be considered
 # #####
 thaumic_arcana.tooltip.unused=Unused!
 thaumic_arcana.tooltip.infused_with=Infused with %s
-item.platn_ball.contains=Tartalmaz:
+item.plant_ball.contains=Tartalmaz:
