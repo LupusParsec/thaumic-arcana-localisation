@@ -1,6 +1,6 @@
-# #########
-# Research#
-# #########
+# ######## #
+# Research #
+# ######## #
 tc.research_category.BIOMANCY=Biomancy
 research.thaumic_arcana.metal_transmutation.title=Fém átalakítás
 research.thaumic_arcana.metal_transmutation.stage.1=I've grown tired of constantly going deeper into the mines to gather the resources that I need. After heavily researching different metals, I realized that even though they have different properties, fundamentally they are the same. I need to investigate further.
@@ -147,18 +147,20 @@ research.thaumic_arcana.leather_studies.stage.1=Leather is a really good materia
 research.thaumic_arcana.slime_armor.title=Infused Armor
 research.thaumic_arcana.slime_armor.stage.1=The new tools that I crafted are quite impressive, the way they carry potions is valuable. But, I can't really apply them tpo myself unless I keep hitting myself. I prepared materials for an armor that should be able to do the same, but to the wearer.
 research.thaumic_arcana.slime_armor.stage.2=The armor is completed, used diamonds instead of iron for more protection.The armor can absorb potions than provide a longer lasting effect as long as I have the armor piece on.
-# #########
-# Theories#
-# #########
+
+# ######## #
+# Theories #
+# ######## #
 card.thaumic_arcana.study_plants.name=Study %1$s
 card.thaumic_arcana.study_plants.text=Studying %1$s can give you a deeper understanding of plants. Gain 10 Biomancy.
 card.thaumic_arcana.study_flesh.name=Dissect %1$s
 card.thaumic_arcana.study_flesh.text=Dissecting animals (%1$s) can give you a deeper understanding of how they work. Gain 15 Biomancy.
 card.thaumic_arcana.study_dead_flesh.name=Dissect remains
 card.thaumic_arcana.study_dead_flesh.text=Dissecting %1$s can give you a deeper understanding of their structure, even though it's a bit more gross than fresh tissue. Gain 25 Biomancy.
-# ##################
-# Creature Enchants#
-# ##################
+
+# ################# #
+# Creature Enchants #
+# ################# #
 enchant.creature_enchant.fertile=Szapora
 enchant.creature_enchant.respiration=Vízlégzés
 enchant.creature_enchant.protection=Védelem
@@ -175,9 +177,10 @@ enchant.modifier.negation=Ellentét
 enchant.modifier.effect_amplifier=Status Effect Amplifier
 enchant.creature_enchant.helper.enchant=Enchant
 enchant.creature_enchant.helper.modifier=Enchant Modifier
-# #######
-# Items#
-# #######
+
+# ##### #
+# Items #
+# ##### #
 itemGroup.thaumic_arcana=Thaumic Arcana
 item.thaumic_arcana.creature_enchanter.name=Creature Disenchanter
 item.thaumic_arcana.incubated_egg.name=Melegített Tojás
@@ -216,58 +219,75 @@ item.thaumic_arcana.infused_slimy_chestplate.name=Infused Slimey Chestplate
 item.thaumic_arcana.infused_slimy_leggings.name=Infused Slimey Leggings
 item.thaumic_arcana.infused_slimy_helmet.name=Infused Slimey Helmet
 item.thaumic_arcana.infused_slime.name=Infused Slime
+
 # curios
 item.thaumic_arcana.research_result.name=Research Results
 item.thaumic_arcana.organic_curiosity.name=Organic Curiosity
 item.thaumic_arcana.vaporous_curiosity.name=Vaporous Curiosity
 item.thaumic_arcana.infused_curiosity.name=Infused Curiosity
 item.thaumic_arcana.animated_curiosity.name=Animated Curiosity
-# #######
-# Blocks#
-# #######
+
+# ###### #
+# Blocks #
+# ###### #
 tile.thaumic_arcana.experiment_table.name=Experiment Table
+tile.thaumic_arcana.arcane_cage.name=Arcane Cage
+tile.thaumic_arcana.arcane_sieve.name=Arcane Sieve
+
 tile.thaumic_arcana.magic_oak_sapling.name=Nagy Tölgy Csemete
 tile.thaumic_arcana.silver_oak_sapling.name=Ezüst Tölgy Csemete
 tile.thaumic_arcana.tainted_oak_sapling.name=Tainted Oak Sapling
+
 tile.thaumic_arcana.aura_wood_log.name=Aura Wood Log
 tile.thaumic_arcana.aura_wood_sapling.name=Aura Wood Sapling
 tile.thaumic_arcana.aura_leaves.name=Aura Leaves
+
 tile.thaumic_arcana.taint_wine_cap.name=Taint Wine Cap
 tile.thaumic_arcana.taint_wine_trunk.name=Taint Wine Trunk
-tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving stone of binding empowerment
-tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving stone of binding disempowerment
+
+tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving Stone of Binding Empowerment
+tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving Stone of Binding Disempowerment
+
+# ######### #
+# MATERIALS #
+# ######### #
 golem.material.thaumic_arcana.hay=Szalma
 golem.material.thaumic_arcana.flesh=Flesh
 golem.material.thaumic_arcana.slime=Nyálka
 golem.material.thaumic_arcana.leather=Bőr
+
 golem.material.text.thaumic_arcana.hay=The golem is a mechanical skeleton coated with straws.Increased dexterity, low durability
 golem.material.text.thaumic_arcana.flesh=The golem is a artifical zombie.
 golem.material.text.thaumic_arcana.slime=The golem is made out of slime, making it wiggly.
 golem.material.text.thaumic_arcana.leather=The golem is made out of leather, and has increased carrying capacity, due to internal packet.
-# #####
-# Keys#
-# #####
+
+# #### #
+# Keys #
+# #### #
 key.thamic_arcana.category=Thaumic Arcana
 key.descriptions.desc=Swaps the descriptions of specific items
-# #########
-# Commands#
-# #########
+
+# ######## #
+# Commands #
+# ######## #
 command.thaumic_arcana.reload.feedback=Thaumic Arcana configuráció újratöltve
 rendering.thaumic_arcana.reload.failed=Failed to reload rendering. Check the console output for details.
 commands.thaumic_arcana.spawn_structure.usage=spawnArcanaStructure x y z <structure_name>
 commands.thaumic_arcana.spawn_structure.invalid_name=Invaliid structure name
 commands.thaumic_arcana.scar.usage=/tascar <player> <check|setdamage> <number>>
 commands.thaumic_arcana.scar.wrong_target= Target can not be scarred!
-# #########
-# Research#
-# #########
+
+# ######## #
+# Research #
+# ######## #
 thaumic_arcana.research.focused_on=Focusing on:
 thaumic_arcana.research.values=Possible results:
 thaumic_arcana.research.expected_result=Expected_result
 thaumic_arcana.research.counts_in_as=%s% of the result will be considered
-# #####
-# Misc#
-# #####
+
+# #### #
+# Misc #
+# #### #
 thaumic_arcana.tooltip.unused=Unused!
 thaumic_arcana.tooltip.infused_with=Infused with %s
 item.plant_ball.contains=Tartalmaz:
