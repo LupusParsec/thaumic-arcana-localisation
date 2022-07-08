@@ -203,8 +203,10 @@ research.thaumic_arcana.experience_store.stage.2= It sorta works. I can create a
 # ######## #
 card.thaumic_arcana.study_plants.name=Study %1$s
 card.thaumic_arcana.study_plants.text=Studying %1$s can give you a deeper understanding of plants. Gain 10 Biomancy.
+
 card.thaumic_arcana.study_flesh.name=Dissect %1$s
 card.thaumic_arcana.study_flesh.text=Dissecting animals (%1$s) can give you a deeper understanding of how they work. Gain 15 Biomancy.
+
 card.thaumic_arcana.study_dead_flesh.name=Dissect remains
 card.thaumic_arcana.study_dead_flesh.text=Dissecting %1$s can give you a deeper understanding of their structure, even though it's a bit more gross than fresh tissue. Gain 25 Biomancy.
 
@@ -222,9 +224,11 @@ enchant.creature_enchant.health_boost=Health Boost
 enchant.creature_enchant.agiltiy=Mozgékonyság
 enchant.creature_enchant.haste=Haste
 enchant.creature_enchant.productivity=Termelékenység
+
 enchant.modifier.normal=Normal
 enchant.modifier.negation=Ellentét
 enchant.modifier.effect_amplifier=Status Effect Amplifier
+
 enchant.creature_enchant.helper.enchant=Enchant
 enchant.creature_enchant.helper.modifier=Enchant Modifier
 
@@ -232,11 +236,14 @@ enchant.creature_enchant.helper.modifier=Enchant Modifier
 # Items #
 # ##### #
 itemGroup.thaumic_arcana=Thaumic Arcana
+
 item.thaumic_arcana.creature_enchanter.name=Creature Disenchanter
 item.thaumic_arcana.incubated_egg.name=Melegített Tojás
 item.thaumic_arcana.fertiliser.name=Arcane Fertilizer
 item.thaumic_arcana.relief_item.name=Raw Relief
 item.thaumic_arcana.nutrient_mix.name=Táp Keverék
+item.thaumic_arcana.nutritious_mix.name=Nutritious Mix
+
 item.thaumic_arcana.plant_ball.name=Növény Labda
 item.thaumic_arcana.plant_ball.contains=Contains:
 item.thaumic_arcana.enchanting_powder.name=Enchanting Powder
@@ -244,10 +251,16 @@ item.thaumic_arcana.enchanting_powder_basic.name=Basic Enchanting Powder
 item.thaumic_arcana.enchanting_powder_advanced.name=Advanced Enchanting Powder
 item.thaumic_arcana.enchanting_powder_magical.name=Magical Enchanting Powder
 item.thaumic_arcana.enchant_modifier.name=Enchantment Modifier Powder
+
 item.thaumic_arcana.empty_soul_capsule.name=Üres Lélek Kapszula
 item.thaumic_arcana.soul_capsule.name=Lélek Kapszula
+item.thaumic_arcana.revival_capsule.name=Revival Capsule
+item.thaumic_arcana.mind_inhibitor.name=Mind Inhibitor
+
+item.thaumic_arcana.experience_store.name=Knowledge Infuser
 item.thaumic_arcana.slime_meat_raw.name=Raw Slime Meat
 item.thaumic_arcana.slime_meat_cooked.name=Slime Steak
+
 item.thaumic_arcana.neutered_flesh.name=Neutered Flesh
 item.thaumic_arcana.ingot_livium.name=Livium Rúd
 item.thaumic_arcana.livium_axe.name=Livium Fejsze
@@ -255,19 +268,23 @@ item.thaumic_arcana.livium_pickaxe.name=Livium Csákány
 item.thaumic_arcana.livium_shovel.name=Livium Ásó
 item.thaumic_arcana.livium_sword.name=Livium kard
 item.thaumic_arcana.livium_hoe.name=Livium Kapa
+
 item.thaumic_arcana.slimy_axe.name=Slimey Axe
 item.thaumic_arcana.slimy_pickaxe.name=Slimey Pickaxe
 item.thaumic_arcana.slimy_shovel.name=Slimey Shovel
 item.thaumic_arcana.slimy_sword.name=Slimey Sword
 item.thaumic_arcana.slimy_hoe.name=Slimey Hoe
+
 item.thaumic_arcana.infused_slimy_axe.name=Infused Slimey Axe
 item.thaumic_arcana.infused_slimy_pickaxe.name=Infused Slimey Pickaxe
 item.thaumic_arcana.infused_slimy_shovel.name=Infused Slimey Shovel
 item.thaumic_arcana.infused_slimy_sword.name=Infused Slimey Sword
 item.thaumic_arcana.infused_slimy_hoe.name=Infused Slimey Hoe
+
 item.thaumic_arcana.infused_slimy_chestplate.name=Infused Slimey Chestplate
 item.thaumic_arcana.infused_slimy_leggings.name=Infused Slimey Leggings
 item.thaumic_arcana.infused_slimy_helmet.name=Infused Slimey Helmet
+
 item.thaumic_arcana.infused_slime.name=Infused Slime
 
 # curios
@@ -322,8 +339,10 @@ key.descriptions.desc=Swaps the descriptions of specific items
 # ######## #
 command.thaumic_arcana.reload.feedback=Thaumic Arcana configuráció újratöltve
 rendering.thaumic_arcana.reload.failed=Failed to reload rendering. Check the console output for details.
+
 commands.thaumic_arcana.spawn_structure.usage=spawnArcanaStructure x y z <structure_name>
 commands.thaumic_arcana.spawn_structure.invalid_name=Invaliid structure name
+
 commands.thaumic_arcana.scar.usage=/tascar <player> <check|setdamage> <number>>
 commands.thaumic_arcana.scar.wrong_target= Target can not be scarred!
 
