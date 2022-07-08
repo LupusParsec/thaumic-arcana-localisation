@@ -153,7 +153,6 @@ research.thaumic_arcana.livium.stage.1=From the experience of the flesh golem, I
 research.thaumic_arcana.livium.stage.2=The experiment resulted in a special metal that shows sings of life. Tools made of this "material" can leach nutrients from the user's body to repair themselves. It can be triggered by right clicking the tool.
 
 research.thaumic_arcana.slime.title=The Mystery of Slimes
-
 research.thaumic_arcana.slime.stage.1=I wonder why I have not tried this. Why I have not tried to do anything with the most basic form of life that I know of, the slimes. They are so simple that they can be grown with the most basic form of alchemy, no extra safety measures required.<BR> How they relate to other creatures? If I can find that out, than I could get closer to life itself.<LINE>First things first. They are green, like plants. That is something to investigate.
 research.thaumic_arcana.slime.stage.2=They do contain some plant matter, but I don't see it anything more than stuff they collected while or before forming, and that is quite interesting. Now let's see how they compare with other creatures.
 research.thaumic_arcana.slime.stage.3=Still nothing. They lack every single structure that anything that moves would normally possess, and that is disturbing. Either a large chunk of research can be thrown out the window, or there is something else. <LINE> I can still try to look at a known variant, the magma slime. I do not see how this creature would work with the amount of heat that magma cubes posess. That may yield some answers. <LINE> While I'm at it, I'm also going to investigate an another interesting phenomenon around them. Combining the cream coming from slain slimes yields a hot rock, that is really similar to the magma found near lava lakes.
@@ -175,7 +174,7 @@ research.thaumic_arcana.slime_infusion_tools.title=Infused Slime Tools
 research.thaumic_arcana.slime_infusion_tools.stage.1=Can tools made out of slime be treated the same way as normal slime? The way I fuse it with metal is not as drastic as the infusion with essentia.
 research.thaumic_arcana.slime_infusion_tools.stage.2=The tool needs modifictions to accept more. I have to infuse it with the properties of blaze rods, golden apples and glistening melon, and some dragon's breath to gain alchemical properties, than I have to add diamonds to regain some durability, and livium to retain compatibility between the materials.<BR> The resulting tool needs to be soaked in a thick potion, and than it will absorb the effects, and will slowly inject it into anything I hit.
 
-research.thaumic_arcana.leather_studies.title=Leather Studies
+research.thaumic_arcana.leather_studies.title=Material Studies: Leather
 research.thaumic_arcana.leather_studies.stage.1=Leather is a really good material to make golems out of.The technique is similar to the straw golems, but the sturdiness and flexibility of the material allows me to add an internal packet than allows the golem to carry more items.
 
 research.thaumic_arcana.slime_armor.title=Infused Armor
