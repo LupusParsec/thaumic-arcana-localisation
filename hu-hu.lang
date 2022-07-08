@@ -2,6 +2,7 @@
 # Research #
 # ######## #
 tc.research_category.BIOMANCY=Biomancy
+
 research.thaumic_arcana.metal_transmutation.title=Fém átalakítás
 research.thaumic_arcana.metal_transmutation.stage.1=I've grown tired of constantly going deeper into the mines to gather the resources that I need. After heavily researching different metals, I realized that even though they have different properties, fundamentally they are the same. I need to investigate further.
 research.thaumic_arcana.metal_transmutation.stage.2=I DID IT! Iron is the most simple among all metals, so it can serve as a "blank slate" for all other metals. Going from there, I only need to add other aspects to it for it to transform. Also, I can only use nuggets for the process: otherwise I can't get the essentia to penetrate the metal correctly. <BR/>Even though it's only iron that can be transmuted, it still goes a long way towards fulfilling my needs.
