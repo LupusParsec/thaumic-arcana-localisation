@@ -1,6 +1,6 @@
-##########
-#Research#
-##########
+# ######## #
+# Research #
+# ######## #
 tc.research_category.BIOMANCY=生灵学
 
 research.thaumic_arcana.metal_transmutation.title=金属嬗变
@@ -36,7 +36,6 @@ research.thaumic_arcana.wheat.stage.5=现在我已可随心所欲的催化作物
 research.thaumic_arcana.incubated_egg.title=奥术育种
 research.thaumic_arcana.incubated_egg.stage.1=随着对植物研究的深入，我也应该着手将其应用到动物身上。也许我能向鸡蛋中注入Ignis与Victus要素以试着孵化它，这将是一个好的开始。
 research.thaumic_arcana.incubated_egg.stage.2=正如我预想的那样，鸡蛋被成功的孵化。经过反复炼化我已经掌握了对要素量的控制，这也使得每次炼化出的蛋都能成功的孵化出幼雏。<LINE>值得注意的是，不知为何炼化出来的鸡蛋外壳会变得坚硬，这也使得将鸡蛋随意弃置是不明智之举，它极有可能损坏胚胎。
-
 
 research.thaumic_arcana.flesh_growth.title=奥术复制
 research.thaumic_arcana.flesh_growth.stage.1=经过先前在鸡蛋上的试验，我也许可以用类似的方式来催化动物的肉。理论上，受Victus要素催化的肉将会在体外进行增长。由此，便可达到复制生肉的效果。
@@ -90,7 +89,6 @@ research.thaumic_arcana.tree.stage.1=在种植植物时，若播种的范围过�
 research.thaumic_arcana.tree.stage.2=The tree is more of a bush, but it is able to give me wood. I also need to add some vacuos to the formula, so I can improve the spatial conditions in there for long enough to make it so that it won't get stuck in my cauldron, or thaumatorium. <LINE>The leaves overgrew, and became so hard that I need to crack it open by smashing it to a wall.
 research.thaumic_arcana.tree.stage.3=值得注意的是，这一过程可能导致产量偏低。看起来这类问题早已是家常便饭，时有发生。
 
-
 research.thaumic_arcana.plantproducts.title=材料多样性
 research.thaumic_arcana.plantproducts.stage.1=现在我已经掌握了利用坩埚快速催化植物的相关知识。不过，我还想做一个尝试——自产研究所需的材料。<LINE>由于我做研究时会消耗很多纸，因此首要问题就是解决纸的供应。现在我需要去准备些可供炼化造纸的原材料。
 research.thaumic_arcana.plantproducts.stage.2=最终，我选择木头作为造纸的原材料。运用相同的原理，将要素灌注原木中炼化成纸。<LINE>由于先前的成果，现在我开始着手设想着炼化其他资源。
@@ -112,9 +110,9 @@ research.thaumic_arcana.creature_enchant_negation.speed=速度附魔会降低移
 research.thaumic_arcana.creature_enchant_negation.vitality=The Vitality enchant will wither instead of regenerating.
 research.thaumic_arcana.creature_enchant_negation.protection=保护附魔会增加承受伤害而非减免承受伤害。
 
-##########
-#Theories#
-##########
+# ######## #
+# Theories #
+# ######## #
 card.thaumic_arcana.study_plants.name=研究：%1$s
 card.thaumic_arcana.study_plants.text=通过对%1$s的研究将增进你对植物的了解，并获得10点生灵学进度。
 
@@ -127,9 +125,9 @@ card.thaumic_arcana.study_dead_flesh.text=剖析%1$s能让你更深入的了解�
 card.thaumic_arcana.experiment.name=动物实验
 card.thaumic_arcana.experiment.description=动物实验是获取生灵学进度最有效的来源。
 
-###################
-#Creature Enchants#
-###################
+# ################# #
+# Creature Enchants #
+# ################# #
 enchant.creature_enchant.fertile=生息
 enchant.creature_enchant.respiration=水下呼吸
 enchant.creature_enchant.protection=保护
@@ -140,9 +138,9 @@ enchant.creature_enchant.vitality=Vitality
 enchant.modifier.normal=Normal
 enchant.modifier.negation=诅咒
 
-########
-#Items#
-########
+# ##### #
+# Items #
+# ##### #
 itemGroup.thaumic_arcana=Thaumic Arcana
 
 item.thaumic_arcana.creature_enchanter.name=生物附魔书
@@ -162,10 +160,9 @@ item.thaumic_arcana.formula.name=知识便签
 item.thaumic_arcana.rodent.name=Rodent
 item.thaumic_arcana.rodent.dead.name=Dead Rodent
 
-########
-#Blocks#
-########
-
+# ###### #
+# Blocks #
+# ###### #
 tile.thaumic_arcana.experiment_table.name=实验台
 tile.thaumic_arcana.arcane_cage.name=奥术笼
 
@@ -183,15 +180,15 @@ tile.thaumic_arcana.taint_wine_trunk.name=Taint Wine Trunk
 tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving Stone of Binding Empowerment
 tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving Stone of Binding Disempowerment
 
-######
-#Keys#
-######
+# #### #
+# Keys #
+# #### #
 key.thamic_arcana.category=Thaumic Arcana
 key.descriptions.desc=Swaps the descriptions of specific items
 
-##########
-#Commands#
-##########
+# ######## #
+# Commands #
+# ######## #
 command.thaumic_arcana.reload.feedback=Thaumic Arcana configs reloaded
 rendering.thaumic_arcana.reload.failed=Failed to reload rendering. Check the console output for details.
 
