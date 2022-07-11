@@ -3,10 +3,6 @@
 # ######## #
 tc.research_category.BIOMANCY=Biomancy
 
-research.thaumic_arcana.metal_transmutation.title=Metal Transmutation
-research.thaumic_arcana.metal_transmutation.stage.1=I've grown tired of constantly going deeper into the mines to gather the resources that I need. After heavily researching different metals, I realized that even though they have different properties, fundamentally they are the same. I need to investigate further.
-research.thaumic_arcana.metal_transmutation.stage.2=I DID IT! Iron is the most simple among all metals, so it can serve as a "blank slate" for all other metals. Going from there, I only need to add other aspects to it for it to transform. Also, I can only use nuggets for the process: otherwise I can't get the essentia to penetrate the metal correctly.<BR>Even though it's only iron that can be transmuted, it still goes a long way towards fulfilling my needs.
-
 research.thaumic_arcana.biomancy.title=Biomancy
 research.thaumic_arcana.biomancy.stage.1=The biothaumic mind was a major success at harnessing organic substances to create new devices. Ever since then, I was toying with the idea of applying more magic to organic matter.<BR>I prepared some materials form some very basic experiments. Based on my current theories and experience, it should not be too hard.
 research.thaumic_arcana.biomancy.stage.2=There's a difference between theory, and reality. The magic that I'm trying to apply causes a heavy amount of scarring in booth plants and animals, something that I did not experienced while making the biothaumic mind. I prepared for a second experiment, now attempting to use some Victus, to mitigate the effects of the magic.
@@ -85,8 +81,8 @@ research.thaumic_arcana.enchant_modification.title=Creature Enchant Modification
 research.thaumic_arcana.enchant_modification.stage.1=While studying the phenomenons around creature enchants, there was something that was bothering me. It is not only affecting the flesh, but also the aura around the subject. This new "field", created by the magical dusts binds the magic to the creature. I also noticed that this field is connected to the local aura, in a way that I don't fully understand.<LINE>To crack this mystery, first I'm going to try to alter it's behaviour. I should be able to alter it, so that it changes the way the enchants bind.<LINE>But, first things first, I should have a way to stabilize this field, just in case something goes wrong. My theory is that a strong enough binding agent, should be able to carry the spell.
 research.thaumic_arcana.enchant_modification.stage.2=Now that I have some sort of safety net to work with, I want to see how easy it would be to break this bond down. My initial design was that it should be as strong as possible, so that the subject can not reject it.
 research.thaumic_arcana.enchant_modification.stage.3=Total failure. I still can not break the bond, and the only thing I have, is a spell that currupts the magical energies of the enchantments. They will either stop working, or turn to their opposite effects.
-research.thaumic_arcana.enchant_modification.negation=The negation modifier will flip the multiplier of the enchantment.
-research.thaumic_arcana.enchant_modification.base=The normal modifier will revert the binding to its default state.
+research.thaumic_arcana.enchant_modification.negation=The Negation modifier will flip the multiplier of the enchantment.
+research.thaumic_arcana.enchant_modification.base=The Normal modifier will revert the binding to its default state.
 
 research.thaumic_arcana.plant_experiments.title=Plant Experiments
 research.thaumic_arcana.plant_experiments.stage1=Now that I understand how I can use magic on plants, I want to see if I could make a mundane plant display magical properties. Maybe make some Silverwood?
@@ -147,6 +143,10 @@ research.thaumic_arcana.flesh_golems.title=Flesh Golems
 research.thaumic_arcana.flesh_golems.stage.1=Do I really want to do this?<BR>My current understanding of the living should allow me to create a golem out of organic materials. Question is, do I really want to do this?
 research.thaumic_arcana.flesh_golems.stage.2=Good, the flesh is being perforated and burnt inside the press. I have to find a possible treatment that would prevent this from happening.
 research.thaumic_arcana.flesh_golems.stage.3=I tweaked my press. The flesh golem is now complete. Because the golem uses a primitive nervious system that I salvaged from brains, it will be "smart" whitout any additions.
+
+research.thaumic_arcana.metal_transmutation.title=Metal Transmutation
+research.thaumic_arcana.metal_transmutation.stage.1=I've grown tired of constantly going deeper into the mines to gather the resources that I need. After heavily researching different metals, I realized that even though they have different properties, fundamentally they are the same. I need to investigate further.
+research.thaumic_arcana.metal_transmutation.stage.2=I DID IT! Iron is the most simple among all metals, so it can serve as a "blank slate" for all other metals. Going from there, I only need to add other aspects to it for it to transform. Also, I can only use nuggets for the process: otherwise I can't get the essentia to penetrate the metal correctly.<BR>Even though it's only iron that can be transmuted, it still goes a long way towards fulfilling my needs.
 
 research.thaumic_arcana.livium.title=Living Metal
 research.thaumic_arcana.livium.stage.1=From the experience of the flesh golem, I learned how to use flesh as a raw material. I'm thinking about also using what I know about slimes as well, since they are mostly just blobs of organic matter, with very little internal structure. For the next experiment I prepared a way to "neuter" flesh, so it will not kill foreigh tissue. I'm going to infuse this flesh with the aspects of metal and the properties of iron. It will either turn into an organism that has the properties of a metal, yet behaves like a living organism, or the scarring will destroy it.
