@@ -41,16 +41,16 @@ research.thaumic_arcana.creature_enchant_advanced.stage.4=Was a little harder th
 research.thaumic_arcana.creature_enchant_advanced.stage.5=Interestingly, it does not. Still needs some getting used to.<BR>Lastly, I want to see, if increased vitality would be the answer to the fragility problem of strength.
 research.thaumic_arcana.creature_enchant_advanced.stage.6=That's it for now. I need to learn more before I can do more.
 
-research.thaumic_arcana.creature_enchant_advanced.vitality=The vitality enchantment will increase the creature's regenerative abilities.
-research.thaumic_arcana.creature_enchant_advanced.strength=The strength enchantment will increase the power output of the creature's muscles.
-research.thaumic_arcana.creature_enchant_advanced.spider_limbs=The spider limbs enchantment, infuses the creature with the essence of a spider, allowing it to climb up walls, and stick to them.
-research.thaumic_arcana.creature_enchant_advanced.speed=The speed enchantment increases the movement speed of the creature.<BR>Because they target similar muscle groups, the strength enchant will cause it to increase the fall damage the creature takes.<BR>Because of the hardening effects of the protection enchant that is affecting movement to a degree, it will cause the creature to need more enegry to function.
-
-research.thaumic_arcana.creature_enchant.creature_enchanter_fertile=The fertility enchantment allows enchanted animals to give birth to additional offspring. Each enchanted parent provides one extra baby.<LINE>Creatures with higher intellect are somewhat unaffected.
-research.thaumic_arcana.creature_enchant.creature_enchanter_protection=The protection enchantment is very straightforward: Every level will divide the damage that the enchanted creature will take.
-research.thaumic_arcana.creature_enchant.creature_enchanter_respiration=The respiration enchantment allows the enchanted creature to breath underwater.
-research.thaumic_arcana.creature_enchant.creature_enchanter_strength=The strength enchantment allows you to increase a creature's attack, multiplying its attack damage by its level.
 research.thaumic_arcana.creature_enchant.powder=To apply this magic, I need to create a special book that holds the spell, and a special enchantment. To enchant the book, I need to get a special binding agent that can link it to the creature. To apply the enchant to the book, I need to right click an enchanting table with the enchanted powder in my main hand, and the book in my offhand.<LINE>From this point, I can simply right click the book on any creature to apply the enchantment.
+
+research.thaumic_arcana.creature_enchant.creature_enchanter_fertile=The Fertile enchantment allows enchanted animals to give birth to additional offspring. Each enchanted parent provides one extra baby.<LINE>Creatures with higher intellect are somewhat unaffected.
+research.thaumic_arcana.creature_enchant.creature_enchanter_protection=The Protection enchantment is very straightforward: Every level will divide the damage that the enchanted creature will take.
+research.thaumic_arcana.creature_enchant.creature_enchanter_respiration=The Respiration enchantment allows the enchanted creature to breath underwater.
+
+research.thaumic_arcana.creature_enchant_advanced.vitality=The Vitality enchantment will increase the creature's regenerative abilities.
+research.thaumic_arcana.creature_enchant_advanced.strength=The Strength enchantment will increase the power output of the creature's muscles.
+research.thaumic_arcana.creature_enchant_advanced.spider_limbs=The Spider Limbs enchantment, infuses the creature with the essence of a spider, allowing it to climb up walls, and stick to them.
+research.thaumic_arcana.creature_enchant_advanced.speed=The Speed enchantment increases the movement speed of the creature.<BR>Because they target similar muscle groups, the strength enchant will cause it to increase the fall damage the creature takes.<BR>Because of the hardening effects of the protection enchant that is affecting movement to a degree, it will cause the creature to need more enegry to function.
 
 research.thaumic_arcana.self_enchantment.title=Self Enchantment
 research.thaumic_arcana.self_enchantment.stage.1=I can put enchantments on all kinds of creatures. But what if I could put them on myself? I must try it out!
